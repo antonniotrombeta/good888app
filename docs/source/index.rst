@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Good888 App | Website Good888 App #1 Thiên Đường Trò Chơi Điện Tử
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GOOD88 <https://good888.app/>`_ là thương hiệu nhà cái uy tín hàng đầu Việt Nam và Châu Á. Chơi các trò chơi điện tử trực tuyến tại Good888 App như: bắn cá, đá gà, casino, thể thao, xổ số, cùng hàng ngàn cách game sảnh nổi tiếng và hấp dẫn!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://good888.app/
 
-   This project is under active development.
+Địa chỉ: 130 Nguyễn Đức Cảnh, Tương Mai, Hoàng Mai, Hà Nội
 
-Contents
---------
+Email: good888.app@gmail.com
 
-.. toctree::
+Phone: 0988564121
 
-   usage
-   api
+Hastag: #good88; #good888app; #good888
